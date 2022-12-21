@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\fakhr\OneDrive\Bureau\MyQuizApplication-master\Server\.metadata\.plugins\org.eclipse.jdt.core
+3262567333.index
+1865797976.index
+2974297673.index
